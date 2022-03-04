@@ -77,7 +77,7 @@
 
 		<!-- Kernel components -->
 		<kernel.parent.version>1.1.2</kernel.parent.version>
-		<kernel-core.version>${kernel.parent.version}</kernel-core.version>
+		<kernel-core.version>1.2.0</kernel-core.version>
 		<kernel-keymanager-service.version>${kernel.parent.version}</kernel-keymanager-service.version>
 		<kernel-idgenerator-tokenid.version>1.0.7</kernel-idgenerator-tokenid.version>
 		<kernel-idvalidator-uin.version>1.0.6</kernel-idvalidator-uin.version>
@@ -115,7 +115,7 @@
 		<lombok.version>1.18.8</lombok.version>
 
 		<!-- Spring Boot -->
-		<spring.boot.version>2.0.2.RELEASE</spring.boot.version>
+		<spring.boot.version>2.3.0.RELEASE</spring.boot.version>
 		<spring-cloud-config.version>2.0.0.RELEASE</spring-cloud-config.version>
 
 		<javax.validation-api.version>2.0.1.Final</javax.validation-api.version>
