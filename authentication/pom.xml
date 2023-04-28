@@ -94,7 +94,7 @@
 		<kernel-biosdk-provider.version>1.1.2</kernel-biosdk-provider.version>
 		<kernel-websubclient-api.version>1.1.2</kernel-websubclient-api.version>
 		<id-repository-core.version>1.1.2</id-repository-core.version>
-		<json.utility.version>20180130</json.utility.version>
+		<json.utility.version>20230227</json.utility.version>
 		<!-- Maven Plugins -->
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
