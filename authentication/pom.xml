@@ -71,13 +71,13 @@
 		<sonar.skip>true</sonar.skip>
 
 		<authentication.parent.version>${project.version}</authentication.parent.version>
-		<authentication-core.version>${authentication.parent.version}</authentication-core.version>
-		<authentication-common.version>${authentication.parent.version}</authentication-common.version>
+		<authentication-core.version>1.3.0</authentication-core.version>
+		<authentication-common.version>1.3.0</authentication-common.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 		<!-- Kernel components -->
 		<kernel.parent.version>1.1.2</kernel.parent.version>
-		<kernel-core.version>${kernel.parent.version}</kernel-core.version>
+		<kernel-core.version>1.3.0</kernel-core.version>
 		<kernel-keymanager-service.version>${kernel.parent.version}</kernel-keymanager-service.version>
 		<kernel-idgenerator-tokenid.version>1.0.7</kernel-idgenerator-tokenid.version>
 		<kernel-idvalidator-uin.version>1.0.6</kernel-idvalidator-uin.version>
@@ -85,8 +85,8 @@
 		<kernel-idobjectvalidator.version>${kernel.parent.version}</kernel-idobjectvalidator.version>
 		<kernel-pinvalidator.version>1.0.6</kernel-pinvalidator.version>
 		<kernel-templatemanager-velocity.version>1.0.6</kernel-templatemanager-velocity.version>
-		<kernel-logger-logback.version>1.1.2</kernel-logger-logback.version>
-		<kernel-dataaccess-hibernate.version>1.0.7</kernel-dataaccess-hibernate.version>
+		<kernel-logger-logback.version>1.3.0</kernel-logger-logback.version>
+		<kernel-dataaccess-hibernate.version>1.3.0</kernel-dataaccess-hibernate.version>
 		<kernel-cbeffutil-api.version>1.1.0</kernel-cbeffutil-api.version>
 		<kernel-templatemanager-velocity.version>1.0.6</kernel-templatemanager-velocity.version>
 		<kernel-auth-adapter.version>1.1.2</kernel-auth-adapter.version>
